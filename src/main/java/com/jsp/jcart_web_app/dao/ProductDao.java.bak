@@ -10,7 +10,6 @@ import java.util.List;
 import com.jsp.jcart_web_app.connection.UserConnection;
 import com.jsp.jcart_web_app.dto.Product;
 
-//this is dao class
 public class ProductDao {
 
 	Connection connection = UserConnection.getUserConnection();

@@ -8,7 +8,6 @@ import java.sql.SQLException;
 import com.jsp.jcart_web_app.connection.UserConnection;
 import com.jsp.jcart_web_app.dto.Admin;
 
-//this is admin dao
 public class AdminDao {
 
 	Connection connection = UserConnection.getUserConnection();
